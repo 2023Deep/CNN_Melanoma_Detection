@@ -2,6 +2,7 @@
 > Build a CNN based model which can accurately detect melanoma.
 
 ## Table of Contents
+* [Project Summary](https://themindfulmachine.blogspot.com/2024/12/skinsafe-ai.html)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
